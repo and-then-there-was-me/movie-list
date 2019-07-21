@@ -1,0 +1,376 @@
+{
+  "Movies": [
+    {
+      "Title": "Toy Story 4",
+      "MovieID": "HO00011529",
+      "Classification": "G",
+      "MovieDuration": "100mins",
+      "MoviePromoImage": "https://villagecinemas.com.au/-/media/images/vcawebsite/movies%202019/toy-story-4.jpg",
+      "OpeningDate": "20/06/2019 12:00:00 AM",
+      "OpeningDateString": "Thu 20 Jun 2019",
+      "Synopsis": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that&#39;s Andy or Bonnie. But when Bonnie adds a reluctant new toy called &quot;Forky&quot; to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy. Directed by Josh Cooley and produced by Jonas Rivera and Mark Nielsen, Disney Pixar&#39;s &quot;Toy Story 4&quot; ventures to cinemas on June 20, 2019.",
+      "CinemaID": "001",
+      "CinemaName": "Jam Factory",
+      "CinemaUrl": "/cinemas/jam-factory",
+      "Sessions": [
+        {
+          "Date": "20/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "001",
+              "SessionTime": "10:15 AM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "002",
+              "SessionTime": "5:30 PM",
+              "SessionAttributes": [
+                "Gold"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "003",
+              "SessionTime": "7:15 PM",
+              "SessionAttributes": [
+                "Vprem"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "004",
+              "SessionTime": "9:20 PM",
+              "SessionAttributes": [
+                "Vmax"
+              ]
+            }
+          ]
+        },
+        {
+          "Date": "21/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "005",
+              "SessionTime": "10:15 AM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "006",
+              "SessionTime": "6:30 PM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "007",
+              "SessionTime": "8:15 PM",
+              "SessionAttributes": [
+                "Vprem"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "008",
+              "SessionTime": "9:20 PM",
+              "SessionAttributes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Spider-Man: Far from Home",
+      "MovieID": "HO00011667",
+      "Classification": "M",
+      "MovieDuration": "129mins",
+      "MoviePromoImage": "https://villagecinemas.com.au/-/media/images/vcawebsite/movies%202019/spider-man-far-from-home-v4.jpg",
+      "OpeningDate": "1/07/2019 12:00:00 AM",
+      "OpeningDateString": "Mon 1 Jul 2019",
+      "Synopsis": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+      "CinemaID": "001",
+      "CinemaName": "Jam Factory",
+      "CinemaUrl": "/cinemas/jam-factory",
+      "Sessions": [
+        {
+          "Date": "20/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "009",
+              "SessionTime": "10:15 AM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "010",
+              "SessionTime": "5:30 PM",
+              "SessionAttributes": [
+                "Gold"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "011",
+              "SessionTime": "7:15 PM",
+              "SessionAttributes": [
+                "Vprem"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "012",
+              "SessionTime": "9:20 PM",
+              "SessionAttributes": [
+                "Vmax"
+              ]
+            }
+          ]
+        },
+        {
+          "Date": "21/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "013",
+              "SessionTime": "10:15 AM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "014",
+              "SessionTime": "6:30 PM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "015",
+              "SessionTime": "8:15 PM",
+              "SessionAttributes": [
+                "Vprem"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "016",
+              "SessionTime": "9:20 PM",
+              "SessionAttributes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Yesterday",
+      "MovieID": "HO00011705",
+      "Classification": "M",
+      "MovieDuration": "116mins",
+      "MoviePromoImage": "https://villagecinemas.com.au/-/media/images/vcawebsite/movies%202019/yesterday-v2.jpg",
+      "OpeningDate": "27/06/2019 12:00:00 AM",
+      "OpeningDateString": "Thu 27 Jun 2019",
+      "Synopsis": "Yesterday, everyone knew The Beatles. Today, only Jack remembers their songs. He&#39;s about to become a very big deal. From Academy Award&#174;-winning director Danny Boyle (Slumdog Millionaire, Trainspotting, 28 Days Later) and Richard Curtis, the Oscar-nominated screenwriter of Four Weddings and a Funeral, Love Actually and Notting Hill, comes a rock-n-roll comedy about music, dreams, friendship, and the long and winding road that leads to the love of your life. ↵Jack Malik (Himesh Patel, BBC&#39;s Eastenders) is a struggling singer-songwriter in a tiny English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie (Lily James, Mama Mia! Here We Go Again). Then, after a freak bus accident during a mysterious global blackout, Jack wakes up to discover that The Beatles have never existed . and he finds himself with a very complicated problem, indeed.↵Performing songs by the greatest band in history to a world that has never heard them, and with a little help from his steel-hearted American agent, Debra (Emmy winner Kate McKinnon), Jack&#39;s fame explodes. But as his star rises, he risks losing Ellie - the one person who always believed in him. With the door between his old life and his new closing, Jack will need to get back to where he once belonged and prove that all you need is love.",
+      "CinemaID": "001",
+      "CinemaName": "Jam Factory",
+      "CinemaUrl": "/cinemas/jam-factory",
+      "Sessions": [
+        {
+          "Date": "20/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "017",
+              "SessionTime": "7:15 PM",
+              "SessionAttributes": []
+            },
+            {
+              "CurrentVistaSessionId": "018",
+              "SessionTime": "9:20 PM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            }
+          ]
+        },
+        {
+          "Date": "21/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "019",
+              "SessionTime": "5:15 PM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "020",
+              "SessionTime": "7:30 PM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Aladdin",
+      "MovieID": "HO00011528",
+      "Classification": "PG",
+      "MovieDuration": "128mins",
+      "MoviePromoImage": "https://villagecinemas.com.au/-/media/images/vcawebsite/movies%202019/aladdin-v2.jpg",
+      "OpeningDate": "23/05/2019 12:00:00 AM",
+      "OpeningDateString": "Thu 23 May 2019",
+      "Synopsis": "&quot;Aladdin&quot; is the exciting tale of the charming street rat Aladdin, the courageous and self-determined Princess Jasmine and the Genie who may be the key to their future. Directed by Guy Ritchie, who brings his singular flair for fast-paced, visceral action to the fictitious port city of Agrabah, the film is written by John August and Guy Ritchie based on Disney&#39;s &quot;Aladdin.&quot;",
+      "CinemaID": "001",
+      "CinemaName": "Jam Factory",
+      "CinemaUrl": "/cinemas/jam-factory",
+      "Sessions": [
+        {
+          "Date": "20/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "021",
+              "SessionTime": "10:15 AM",
+              "SessionAttributes": []
+            },
+            {
+              "CurrentVistaSessionId": "022",
+              "SessionTime": "5:30 PM",
+              "SessionAttributes": [
+                "Gold"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "023",
+              "SessionTime": "7:15 PM",
+              "SessionAttributes": [
+                "Vprem"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "024",
+              "SessionTime": "9:20 PM",
+              "SessionAttributes": [
+                "Vmax"
+              ]
+            }
+          ]
+        },
+        {
+          "Date": "21/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "025",
+              "SessionTime": "10:15 AM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "026",
+              "SessionTime": "6:30 PM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "027",
+              "SessionTime": "8:15 PM",
+              "SessionAttributes": [
+                "Vprem"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "028",
+              "SessionTime": "9:20 PM",
+              "SessionAttributes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Men In Black: International",
+      "MovieID": "HO00011608",
+      "Classification": "M",
+      "MovieDuration": "115mins",
+      "MoviePromoImage": "https://villagecinemas.com.au/-/media/images/vcawebsite/movies%202019/men-in-black-international-v4.jpg",
+      "OpeningDate": "13/06/2019 12:00:00 AM",
+      "OpeningDateString": "Thu 13 Jun 2019",
+      "Synopsis": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.",
+      "CinemaID": "001",
+      "CinemaName": "Jam Factory",
+      "CinemaUrl": "/cinemas/jam-factory",
+      "Sessions": [
+        {
+          "Date": "20/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "029",
+              "SessionTime": "12:15 PM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "030",
+              "SessionTime": "8:30 PM",
+              "SessionAttributes": [
+                "Gold"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "031",
+              "SessionTime": "9:20 PM",
+              "SessionAttributes": [
+                "Vmax"
+              ]
+            }
+          ]
+        },
+        {
+          "Date": "21/07/2019",
+          "SessionTimes": [
+            {
+              "CurrentVistaSessionId": "032",
+              "SessionTime": "11:15 AM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "033",
+              "SessionTime": "6:30 PM",
+              "SessionAttributes": [
+                "AD",
+                "CC"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "034",
+              "SessionTime": "7:15 PM",
+              "SessionAttributes": [
+                "Vmax"
+              ]
+            },
+            {
+              "CurrentVistaSessionId": "035",
+              "SessionTime": "9:20 PM",
+              "SessionAttributes": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
